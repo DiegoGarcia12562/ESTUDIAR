@@ -1,2 +1,3 @@
 Hola mmhvo
 Esto es un documento de texto.
+Aquí vamos a practicar VI y GIT.
